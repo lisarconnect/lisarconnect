@@ -25,3 +25,4 @@ The goal is to remove VPN vendor lock-in around the service layer: profiles, rou
 - Website: https://lisar.io
 - Product Hunt: https://www.producthunt.com/products/lisar-connect
 - X: https://x.com/lisarconnect
+- Public docs: https://github.com/lisarconnect/lisar-connect-docs
